@@ -1,4 +1,5 @@
-<h1>Hi My name is Cintiya Aulya Fransiska 🌱</h1>
+<h1>Hi, My name is Cintiya Aulya Fransiska 🌱</h1>
+
 ![WhatsApp Image 2023-03-07 at 16 45 57](https://user-images.githubusercontent.com/126873078/223387448-1ba8a1ff-8a14-47d3-a713-ed7bb288298c.jpeg)
 
 <!--
